@@ -44,5 +44,8 @@ I am a student aspiring to be a Full Stack Developer <img src="https://media.gip
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paras-soni&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paras-soni&layout=compact&theme=vision-friendly-dark)](https://github.com/paras-soni/github-readme-stats)
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paras-soni&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paras-soni&layout=compact&theme=vision-friendly-dark)](https://github.com/paras-soni/github-readme-stats)
+</div>
+
