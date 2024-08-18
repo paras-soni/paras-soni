@@ -8,6 +8,9 @@
   <a href="https://linktr.ee/paras143soni">
     <img src="https://img.shields.io/badge/LinkTree-green?style=for-the-badge&logo=linktree&logoColor=green%22%20alt=%22Twitter%20Badge"/>
   </a>
+  <a href="https://www.instagram.com/paras143soni/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=pink%22%20alt=%22Twitter%20Badge"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=paras-soni&style=flat-square&color=blue" alt=""/>
   <h1>
   hey there
