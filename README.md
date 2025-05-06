@@ -24,7 +24,7 @@ I am a student aspiring to be a Full Stack Developer <img src="https://media.gip
 
 - :telescope: I am a 3rd year student from IoT cybersecurity and blockchain branch.
   
-- :writing_hand: Exploring different problems figuiring out their solutions.
+- :writing_hand: Exploring different problems figuring out their solutions.
 
 - :zap: In my free time, I read books and read tech articles.
 
