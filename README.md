@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 I am a student aspiring to be a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. 
 
-- :telescope: I am a 3rd year student from IoT cybersecurity and blockchain branch.
+- :telescope: Hi, I am a final-year B.Tech student in Computer Science and Engineering with specialization in IoT, Cybersecurity and Blockchain Technology.
   
 - :writing_hand: Exploring different problems figuring out their solutions.
 
